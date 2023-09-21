@@ -26,7 +26,9 @@
           </li>
         {% else %}
           <li class="nav-item">
-            {% assign isExternal = link[1] | split:"http" %}
+            {% assign stringToCheck = link[1] | relative_url %}
+            {% assign startsWith = 'http' %}
+            {% assign isExternal = stringToCheck | split:startsWith %}
             {%- if isExternal == blank %}
               <a class="nav-link" href="{{ link[1] | relative_url }}" target="_blank">{{ link[0] }}</a>
             {% else %}
