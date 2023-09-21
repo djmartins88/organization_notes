@@ -30,10 +30,10 @@
             {% assign startsWith = 'http' %}
             {% assign isExternal = stringToCheck | split:startsWith %}
             <p> {{ stringToCheck }} </p> <br><p> {{ startsWith }} </p> <br><p> {{ isExternal[0] }} </p> <br><p> {{ link[1] }} </p> <br><p> {{ link[1] | relative_url }} </p> <br>
-            {%- if isExternal[0] == blank %}
-              <a class="nav-link" href="{{ link[1] | relative_url }}" target="_blank">{{ link[0] }}</a>
+            {%- if isExternal[0] %}
+              <a class="nav-link" href="{{ link[1] | relative_url }}" >{{ link[0] }}</a>
             {% else %}
-              <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+              <a class="nav-link" href="{{ link[1] | relative_url }}" target="_blank">{{ link[0] }}</a>
             {%- endif -%}
           </li>
         {%- endif -%}
