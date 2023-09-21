@@ -26,7 +26,8 @@
           </li>
         {% else %}
           <li class="nav-item">
-            {%- if link[1] == link[1] | relative_url %}
+            {% assign finalUrl = link[1] | relative_url %}
+            {%- if link[1] == finalUrl %}
               <a class="nav-link" href="{{ link[1] | relative_url }}" target="_blank" >{{ link[0] }}</a>
             {% else %}
               <a class="nav-link" href="{{ link[1] | relative_url }}" >{{ link[0] }}</a>
