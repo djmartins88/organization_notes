@@ -2,7 +2,7 @@
 layout: post
 title: Organization Notes ready!
 subtitle: Currently waiting approval from the ZD market team
-tags: [test]
+tags: [submission]
 comments: false
 ---
 

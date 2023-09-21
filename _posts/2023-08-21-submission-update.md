@@ -2,7 +2,7 @@
 layout: post
 title: Organization Notes submission update
 subtitle: Updated App with ..
-tags: [update] [submission]
+tags: [submission, update]
 comments: false
 ---
 
