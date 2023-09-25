@@ -4,6 +4,7 @@ title: Organization Notes ready!
 subtitle: Currently waiting approval from the ZD market team
 tags: [submission]
 comments: false
+published: false
 ---
 
 The minimum viable product is ready to be available on the ZD store, and I've sent the app for approval. This post is actually more for testing purposes, since I've been working on this site.
