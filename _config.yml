@@ -21,7 +21,7 @@ author: David Martins
 
 navbar-links:
   News: "news"
-  ZD Marketplace: "TODO"
+  ZD Marketplace: "https://www.zendesk.com/marketplace/apps/support/923793/organization-notes/"
   Report issues: "https://github.com/djmartins88/organization_notes/issues"
   Terms & Conditions: "terms"
   Resources:
