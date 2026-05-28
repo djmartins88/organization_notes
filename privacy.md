@@ -5,15 +5,13 @@ subtitle: Organization Notes Privacy Policy
 ---
 Effective Date: September 21st, 2023
 
-## Introduction
-
 This Privacy Policy explains how Organization Notes (“we,” “our,” or “us”) collects, uses, stores, and protects information when you use our Zendesk application.
 
 We are committed to protecting user privacy and ensuring that customer data is handled securely and responsibly.
 
 ---
 
-## Information We Collect
+## 1. Information We Collect
 
 Our Application may collect and store the following information provided by users through Zendesk or directly within the Application:
 
@@ -24,7 +22,7 @@ We only collect information that is necessary to provide the functionality of th
 
 ---
 
-## How We Use Customer Data
+## 2. How We Use Customer Data
 
 Customer data is used solely for the following purposes:
 
@@ -43,7 +41,7 @@ Customer data remains under the control of the respective customer account and i
 
 ---
 
-## Data Storage and Security
+## 3. Data Storage and Security
 
 Customer data is securely stored using Amazon Web Services (AWS) infrastructure.
 
@@ -58,7 +56,7 @@ Access to customer data is limited to authorized users and personnel with a legi
 
 ---
 
-## Authentication and Access Control
+## 4. Authentication and Access Control
 
 Access to the Application is protected through standard authentication mechanisms. Users are responsible for maintaining the confidentiality of their account credentials.
 
@@ -66,13 +64,13 @@ We take reasonable steps to ensure that unauthorized individuals cannot access c
 
 ---
 
-## Data Retention
+## 5. Data Retention
 
 We retain customer data only for as long as necessary to provide the Application’s services or comply with legal obligations.
 
 ---
 
-## Third-Party Services
+## 6. Third-Party Services
 
 Our Application operates within the Zendesk platform and uses AWS for secure data hosting and infrastructure services.
 
@@ -80,7 +78,7 @@ These providers may process data solely for the purpose of delivering their serv
 
 ---
 
-## Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Updated versions will be posted with a revised effective date.
 
@@ -88,6 +86,6 @@ Continued use of the Application after changes become effective constitutes acce
 
 ---
 
-## Contact Information
+## 8. Contact Information
 
 If you have questions about this Privacy Policy or how customer data is handled, please contact Organization Notes at djmartins.dev@gmail.com.
