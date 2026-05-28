@@ -24,6 +24,7 @@ navbar-links:
   ZD Marketplace: "https://www.zendesk.com/marketplace/apps/support/923793/organization-notes/"
   Report issues: "https://github.com/djmartins88/organization_notes/issues"
   Terms & Conditions: "terms"
+  Privacy Policy: "privacy"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
